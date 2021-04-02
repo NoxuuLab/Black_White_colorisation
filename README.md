@@ -1,3 +1,3 @@
-# Black_White_colorisation
+# Black_White_colorization
 colorisation of Black and White Photos
 
